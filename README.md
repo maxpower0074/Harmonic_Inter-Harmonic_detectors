@@ -6,8 +6,8 @@
 
 ## Authors and Affiliations
 
-- Erick Vazquez. Research and Postgraduate Studies Center of the Faculty of Engineering (CIEP-FI) of the Autonomous University of San Luis Potosí (UASLP).
-- Cesar-Fernando Mendez-Barrios. CIEP-FI UASLP.
+- Erick Vazquez (erick.vazquez@upslp.edu.mx). Research and Postgraduate Studies Center of the Faculty of Engineering (CIEP-FI) of the Autonomous University of San Luis Potosí (UASLP).
+- Cesar-Fernando Mendez-Barrios (fernando.barrios@uaslp.mx). CIEP-FI UASLP.
 
 ---
 
