@@ -1,13 +1,13 @@
 # A Comparative Study of Harmonic and Inter-Harmonic Detection Using Parallel- and Cascade-Connected Nonlinear Limit Cycle Oscillators
 
-## Authors
-
-- Erick Vazquez
-- Cesar-Fernando Mendez-Barrios
-
 ## Submission Information
 
 **Submission ID:** 11047
+
+## Authors and Affiliations
+
+- Erick Vazquez. Research and Postgraduate Studies Center of the Faculty of Engineering (CIEP-FI) of the Autonomous University of San Luis Potosí (UASLP).
+- Cesar-Fernando Mendez-Barrios. CIEP-FI UASLP.
 
 ---
 
